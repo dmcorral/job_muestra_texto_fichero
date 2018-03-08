@@ -1,1 +1,3 @@
 Este es un texto de prueba contenido en el fichero “fichero_de_texto.txt”.
+
+Este es un texto añadido posteriormente para realizar un commit con dicho cambio.
